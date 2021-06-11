@@ -9,11 +9,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 
-/**
- *
-  * @author Student number:219186715
- *          Student name: Gbemisola Eniola Adesokan
- */
 public class CreateStakeholderSer {
      ObjectOutputStream output;
         public void openFile(){

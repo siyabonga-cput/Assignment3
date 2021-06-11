@@ -7,11 +7,6 @@ package za.ac.cput.assignment3;
 
 import java.io.Serializable;
 
-/**
- *
- *  * @author Student number:219186715
- *          Student name: Gbemisola Eniola Adesokan
- */
 public class Stakeholder implements Serializable{
     private String stHolderId;
 

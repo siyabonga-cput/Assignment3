@@ -5,11 +5,7 @@
  */
 package za.ac.cput.assignment3;
 
-/**
- *
- *  @author Student number:219186715
- *          Student name: Gbemisola Eniola Adesokan
- */
+ 
 public class Supplier extends Stakeholder{
     private String name;
     private String productType;
